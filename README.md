@@ -1,10 +1,5 @@
 # Практика робот
 
-Подробнее читайте по ссылке: https://tebesoft.github.io/robot-tasks/
+Подробнее читайте по ссылке: https://docode-ru.github.io/robot-practice/
 
 
-## how to commit files
-Use alpine git https://hub.docker.com/r/alpine/git
-
-git config user.name "alex"
-git config user.email "...@..."
